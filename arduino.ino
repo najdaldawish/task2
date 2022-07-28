@@ -1,4 +1,4 @@
-// by \x6b\x69\x72\x61
+
 #include <Servo.h>
 Servo gripper;
 Servo wrist;
